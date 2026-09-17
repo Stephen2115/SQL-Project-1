@@ -1,5 +1,8 @@
 # SQL-Project-1
 
+## Project Objective
+The objective of this project is to develop practical proficiency in MySQL and SQL-based data analysis by solving real-world data problems using relational datasets. The project focuses on extracting, transforming, and analyzing data through filtering, sorting, grouping, joins, subqueries, and aggregate functions. It also aims to build an understanding of advanced SQL concepts, including window functions, ranking, running totals, and comparative analysis. Additionally, the project explores database operations such as views, indexes, stored procedures, functions, triggers, and transactions. The project provides hands-on experience in working with multiple related tables such as employees, customers, products, orders, sales, and students. Overall, the objective is to strengthen data querying, analytical thinking, database management, and problem-solving skills required for data analyst and database-related roles.
+
 ## Dataset used
 - <a href="https://github.com/Stephen2115/SQL-Project-1/blob/main/Project_1%20dataset.docx">Dataset</a>
 
@@ -117,4 +120,5 @@ SECTION 7:
 -	Difference scenario using DELETE vs TRUNCATE.
 -	Restore database from backup.
 -	Export sales report to CSV.
+-	Business Data Analysis <a href="https://github.com/Stephen2115/SQL-Project-1/blob/main/Project_1.sql">View Project</a>
 
